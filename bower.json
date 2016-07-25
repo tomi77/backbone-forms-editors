@@ -1,0 +1,24 @@
+{
+  "name": "backbone-forms-editors",
+  "description": "A Backbone-Forms editors",
+  "main": [],
+  "authors": [
+    "Tomasz Jakub Rup"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "backbone-forms",
+    "editor"
+  ],
+  "homepage": "https://github.com/tomi77/backbone-forms-editors",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    ".*",
+    "src"
+  ],
+  "dependencies": {
+    "underscore": "^1.8.3",
+    "backbone-forms": "^0.14.1"
+  }
+}
